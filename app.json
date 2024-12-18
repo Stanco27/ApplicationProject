@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "dde81b9a-7591-4f22-9c33-a53cb75d8a5a"
+      }
+    },
+    "android": {
+      "package": "com.stanco23.applicationproject"
+    }
+  }
+}
